@@ -1,0 +1,7 @@
+{
+  "name": "agendator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
